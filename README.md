@@ -1,2 +1,1 @@
-# INF3510
-Information Security
+# Information Security course
