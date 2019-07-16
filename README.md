@@ -1,4 +1,6 @@
 # Articles from Uni
 
-- Researching CAPTCHA as a home exam for an information security course
-- Researching how to build a simple robotic arm using servos
+Arcticles/Exams I wrote while at Uni.
+
+- Home exam on CAPTCHAs in an IT Security course
+- Project creating a robotic arm in a Rapid Prototyping course
